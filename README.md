@@ -25,7 +25,7 @@ Whether your bot is a misunderstood genius or just totally off the rails, there�
 90% Public Fair Launch – Available to the community, burned for liquidity.
 10% to Developer Wallet for AI development.
 No Airdrops, No Presale.
-No insiders, No Private Sale – 100% transparent and community-first
+No insiders, No Private Sale – 100% transparent and community-first.
 
 ### Why $RFA?
 Because in a world of hyper-optimized, overly serious AI platforms, we’re proudly doing the exact opposite.  

@@ -23,8 +23,8 @@ Whether your bot is a misunderstood genius or just totally off the rails, there�
 1,000,000,000 $RFA (Fixed Supply, No Minting) distribution is fully transparent.
 ### Token Distribution
 90% Public Fair Launch – Available to the community, burned for liquidity.<br>
-10% to Developer Wallet for AI development.
-No Airdrops, No Presale.
+10% to Developer Wallet for AI development.<br>
+No Airdrops, No Presale.<br>
 No insiders, No Private Sale – 100% transparent and community-first.
 
 ### Why $RFA?
